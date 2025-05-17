@@ -13,7 +13,7 @@ body {
 
 .header {
     height: 85vh;
-    background: url(pic/wight.jpg);
+    background: url(wight.jpg);
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
